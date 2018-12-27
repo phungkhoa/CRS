@@ -1,0 +1,20 @@
+Tea
+Lemon 22000
+Peach 32000
+Apple 35000
+Oolong 35000
+Milk Tea
+Cheese 22000
+Rose 32000
+Pink 35000
+Oreo 35000
+Matcha
+Latte 22000
+Machiato 32000
+Blended 35000
+Ocean 35000
+Chocolate
+Latte 22000
+Blue 32000
+Dark 35000
+Apple 35000
